@@ -1,0 +1,28 @@
+efficient-ai-research/
+│
+├── datasets/
+│
+├── models/
+│   ├── mlp.py
+│   ├── cnn.py
+│   ├── resnet.py
+│   └── efficient_cnn.py
+│
+├── experiments/
+│   ├── 001_baseline/
+│   ├── 002_scaling/
+│   ├── 003_pruning/
+│   ├── 004_quantization/
+│   ├── 005_distillation/
+│   ├── 006_data_efficiency/
+│   └── 007_dynamic_compute/
+│
+├── profiling/
+│
+├── energy/
+│
+├── results/
+│
+├── notebooks/
+│
+└── utils/
